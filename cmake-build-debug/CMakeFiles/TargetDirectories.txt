@@ -1,0 +1,3 @@
+C:/Users/Danii/CLionProjects/Mario-Forever-Engine/cmake-build-debug/CMakeFiles/Mario_Forever_Engine.dir
+C:/Users/Danii/CLionProjects/Mario-Forever-Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Danii/CLionProjects/Mario-Forever-Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
